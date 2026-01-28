@@ -1,0 +1,17 @@
+.DS_Store
+ml/*cache*/
+ml/__pycache__/
+ml/*/__pycache__/
+ml/*/*/__pycache__/
+ml/*.pyc
+ml/.vscode/
+ml/.idea/
+ml/.env
+ml/evals
+ml/exps
+ml/results
+
+mat/*cache*/
+mat/data/images/
+mat/data/mats/
+mat/*.pdf
