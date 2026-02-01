@@ -1,7 +1,3 @@
-Got it — here is the **full file**, same structure and style as yours, with **grammar fixed only** and no extra rewriting.
-
----
-
 # Probabilistic Denoising-Enhanced Parameter Estimation for Multi-Target Detection
 
 > Nghia Thinh Nguyen and Tri Nhu Do, “Probabilistic Denoising-Enhanced Parameter Estimation for Multi-Target Detection,” *Submitted to the 39th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2026), Montreal, Quebec, Canada*.
