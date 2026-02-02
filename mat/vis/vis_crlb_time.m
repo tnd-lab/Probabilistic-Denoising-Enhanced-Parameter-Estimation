@@ -45,7 +45,6 @@ label_names = [
 SNRs_Tx = [-20, -10, -5, 0, 5, 10, 20, 30, 40, 50];
 CRLB_theoretical = zeros(length(SNRs_Tx), 2);
 
-time_step = time_steps(1);
 target_speed = -47.2851;
 target_distance = 91.5379;
 
