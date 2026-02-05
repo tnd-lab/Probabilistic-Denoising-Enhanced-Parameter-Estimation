@@ -1,7 +1,5 @@
 # Probabilistic Denoising-Enhanced Parameter Estimation for Multi-Target Detection
 
-> Nghia Thinh Nguyen and Tri Nhu Do, “Probabilistic Denoising-Enhanced Parameter Estimation for Multi-Target Detection,” *Submitted to the 39th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2026), Montreal, Quebec, Canada*.
-
 ## Abstract
 
 Accurate parameter estimation is critical for multi-target detection; however, conventional signal processing approaches face fundamental limitations in practical environments, including limited prior knowledge, cluttered multi-target scenarios, and time-varying propagation conditions. This paper proposes a probabilistic machine learning framework for radar parameter estimation utilizing phase-modulated continuous-wave signals. Our approach, called Probabilistic Denoising-Enhanced Parameter Estimation (PD-EPE), replaces matched filtering with an end-to-end learned denoising pipeline that enhances estimation accuracy. A novel lightweight probabilistic denoising neural network (PDNet) is introduced to generate high-quality range-Doppler representations by improving target discriminability in realistic simulations. Through complexity analysis, we demonstrate that our proposed method offers significantly improved computational efficiency, making it suitable for real-time applications. PD-EPE achieves superior parameter estimation performance with lower mean squared error and improved detection compared to the state-of-the-art baseline.
